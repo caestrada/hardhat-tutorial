@@ -1,0 +1,18 @@
+# Hardhat
+.cache/
+artifacts/
+coverage/
+node_modules/
+reports/
+.tmp/
+.history/
+
+# Build artifacts
+build/
+
+# Editor/IDE specific files
+.vscode/
+.idea/
+
+# macOS specific files
+.DS_Store
